@@ -19,4 +19,4 @@
 
 ---
 
-#### Made with ❤ by [@XTFZ](https://github.com/xtfz)
+#### Made with ❤ by [@snehasishkun](https://github.com/snehasishkun)

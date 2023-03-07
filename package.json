@@ -11,7 +11,7 @@
     "morgan": "^1.10.0",
     "nodemailer": "^6.7.7"
   },
-  "name": "expressjs-api-template-fletify",
+  "name": "expressjs-api",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -19,9 +19,9 @@
     "start": "node index.js"
   },
   "keywords": [
-    "fletify"
+    "expressjs"
   ],
-  "author": "fletify",
+  "author": "snehasishkun",
   "license": "ISC",
   "description": "An ExpressJS API Template for NodeJS, with get and post requests router + file based routing"
 }
